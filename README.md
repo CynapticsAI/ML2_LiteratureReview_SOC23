@@ -1,6 +1,7 @@
 # ARXIV INSIGHTS
 
 This Project is a Part of IITISoC'23
+
 PROJECT’s INTENT : Building a model to collect scientific papers on a daily basis;
 identify and analyze content, abstract and important context from the papers ;
 generate precise and meaningful summaries saving reader’s time ,helping readers
