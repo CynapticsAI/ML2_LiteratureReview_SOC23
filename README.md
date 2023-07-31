@@ -38,7 +38,7 @@ Here is the final report:
 [ML2 LITERATURE REVIEW GENERATOR FINAL.pdf](https://github.com/CynapticsAI/ML2_LiteratureReview_SOC23/files/12165795/ML2.LITERATURE.REVIEW.GENERATOR.FINAL.pdf)
 
 Here is the link to our powerpoint presentation
-https://1drv.ms/p/s!Ah26IAEnkU_2gixkSn8mUPRvLAJS?e=D7N9jW
+https://1drv.ms/p/s!Ah26IAEnkU_2gixkSn8mUPRvLAJS?e=WKs5P0
 
 
 
