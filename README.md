@@ -28,10 +28,6 @@ https://github.com/CynapticsAI/ML2_LiteratureReview_SOC23/assets/134800518/b1bc0
 
 Summarize paper of our choice using its url:
 
-https://github.com/CynapticsAI/ML2_LiteratureReview_SOC23/assets/134800518/9fa7e5f1-a61b-497e-88aa-cf811a9ad494
-
-Better quality video for the summarizer by url
-
 https://github.com/CynapticsAI/ML2_LiteratureReview_SOC23/assets/117909426/0112e112-8d39-4887-91a9-b3f3b8bb5d23
 
 Here is the final report:
