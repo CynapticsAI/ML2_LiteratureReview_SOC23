@@ -2,7 +2,7 @@
 
 This Project is a Part of IITISoC'23
 
-![Welcome Screen](Data/home.jpeg)
+![Welcome Screen](Data/home.jpg)
 Welcome Screen of our Webapp
 
 Welcome to **ARXIV INSIGHTS**, your AI companion designed to elevate your research journey. Our web application leverages the BART-Large-CNN model to provide concise and accurate summaries of research papers from arXiv. Whether you're a student delving into academic research or a professional staying abreast of the latest scientific advancements, ARXIV INSIGHTS is here to enhance your research experience.
@@ -27,6 +27,7 @@ Welcome to **ARXIV INSIGHTS**, your AI companion designed to elevate your resear
 ### 4. Real-Time Updates
 - **Latest Research:** Stay updated with real-time notifications of new research papers in your field.
 - **Trending Papers:** Discover trending papers and emerging topics in your areas of interest.
+
 
 In all, **ARXIV INSIGHTS** revolutionizes the way you approach research papers. With our AI-powered summarizer, you'll spend less time reading and more time innovating.
 
