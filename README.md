@@ -31,9 +31,8 @@ Welcome to **ARXIV INSIGHTS**, your AI companion designed to elevate your resear
 
 In all, **ARXIV INSIGHTS** revolutionizes the way you approach research papers. With our AI-powered summarizer, you'll spend less time reading and more time innovating.
 
-
 Following is the demo video for our project:
-![Demo Video](data/Demo.webm)
+![Demo Video](https://github.com/user-attachments/assets/969c6751-b805-48a5-8ccd-de4663882334 )
 
 ## Report
 
