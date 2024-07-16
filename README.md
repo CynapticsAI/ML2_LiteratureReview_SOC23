@@ -1,43 +1,42 @@
-# ARXIV INSIGHTS
+# ARXIV INSIGHTS- AI-Powered Research Paper Summariser
 
 This Project is a Part of IITISoC'23
 
-PROJECT’s INTENT : 
-Building a model to collect scientific papers on a daily basis;
-identify and analyze content, abstract and important context from the papers ;
-generate precise and meaningful summaries saving reader’s time ,helping readers
-seeking to navigate and comprehend scientific literature more efficiently.
+![Welcome Screen](Data/home.jpeg)
+Welcome Screen of our Webapp
+
+Welcome to **ARXIV INSIGHTS**, your AI companion designed to elevate your research journey. Our web application leverages the BART-Large-CNN model to provide concise and accurate summaries of research papers from arXiv. Whether you're a student delving into academic research or a professional staying abreast of the latest scientific advancements, ARXIV INSIGHTS is here to enhance your research experience.
+
+## Features:
+
+### 1. Daily Paper Summarizer
+- **Personalized Recommendations:** Select your areas of interest to receive tailored summaries of the latest papers.
+- **Visual Flowcharts:** View a flowchart of the summarized text for a clear and structured understanding.
+- **Table Extraction:** Extract and view tables from research papers to easily grasp the data and results.
+- **Multilingual Summaries:** Access summaries in multiple languages to cater to a global audience.
+
+### 2. Summarize via URL
+- **URL Submission:** Enter the arXiv URL of the paper you want summarized.
+- **Instant Summarization:** Receive quick and accurate summaries directly from the URL.
+- **Multilingual Output:** Obtain summaries in multiple languages for broader accessibility.
+
+### 3. Export and Share
+- **Export Options:** Export summaries in various formats such as PDF or DOCX.
+- **Shareability:** Share summaries with colleagues or collaborators effortlessly.
+
+### 4. Real-Time Updates
+- **Latest Research:** Stay updated with real-time notifications of new research papers in your field.
+- **Trending Papers:** Discover trending papers and emerging topics in your areas of interest.
+
+In all, **ARXIV INSIGHTS** revolutionizes the way you approach research papers. With our AI-powered summarizer, you'll spend less time reading and more time innovating.
 
 
-Our final code is as follows:
+Following is the demo video for our project:
+![Demo Video](data/Demo.webm)
 
-https://colab.research.google.com/drive/1ANozsys-P6ckj_gABFZO9FPMinGdmtLr?usp=sharing
+## Report
 
-Following are the demo videos for our project:
-
-Video representing the working of our website: 
-
-https://github.com/CynapticsAI/ML2_LiteratureReview_SOC23/assets/134800518/c454a8ff-3c76-4c2b-adb5-c00e6fc8edae
-
-
-Website translated to Hindi: 
-
-https://github.com/CynapticsAI/ML2_LiteratureReview_SOC23/assets/134800518/b1bc0815-c03e-47f2-bb21-f0d202d3299c
-
-
-
-Summarize paper of our choice using its url:
-
-https://github.com/CynapticsAI/ML2_LiteratureReview_SOC23/assets/117909426/0112e112-8d39-4887-91a9-b3f3b8bb5d23
-
-Here is the final report:
-
-[ML2 LITERATURE REVIEW GENERATOR FINAL.pdf](https://github.com/CynapticsAI/ML2_LiteratureReview_SOC23/files/12165795/ML2.LITERATURE.REVIEW.GENERATOR.FINAL.pdf)
-
-Here is the link to our powerpoint presentation
-https://1drv.ms/p/s!Ah26IAEnkU_2gixkSn8mUPRvLAJS?e=WKs5P0
-
-
+A detailed description of the pipeline, our approaches and pros-cons of the  different techniques used is provided in [this](https://drive.google.com/file/d/1SdfKkiS5EFmHCbCeWCsZuIc4FaBg4M6w/view?usp=sharing) report.
 
 # Contributors
 - [Ashmi Chandak](https://github.com/ashmi004)

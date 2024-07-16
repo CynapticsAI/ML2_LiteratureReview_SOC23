@@ -1,0 +1,7 @@
+arxiv
+transformers
+pillow
+pymupdf
+timm
+streamlit
+pyngrok==4.1.11
